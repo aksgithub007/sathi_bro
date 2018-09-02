@@ -758,10 +758,12 @@ p.top-para {
         font-size: 92.5%;
 }
 p.ser-para {
-    padding: 7em 2em 2em 2em;
+    padding: 7em 2em 1em 2em;
     background-color: #fff;
     line-height: 1.9em;
-    color: #777;
+    color: #b60704;
+    text-align: center;
+    font-size:36px;
         border-top: 4px solid #F3DA5A;
     border-bottom: 4px solid #2C5592;
 }
