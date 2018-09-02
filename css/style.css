@@ -3047,6 +3047,10 @@ nav.navbar.navbar-default.navbar-fixed-top {
 }
 }
 @media screen and (max-width: 480px){
+      .clients .heading-agileinfo {
+    margin-bottom: 1.8em;
+    font-size:1.6em;
+}
     .wthree-mid h3.tittle{
         font-size:38px;
     }
@@ -3055,7 +3059,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
     }
     .gallery-section h3.tittle{
         font-size:38px;
-        color: #fff;
+        color: #b60704;
     }
 	.bottomgridimg {
 		width: 90%;
@@ -3317,8 +3321,12 @@ ul.nav.navbar-nav li a {
     }
     .gallery-section h3.tittle{
         font-size:1.9em;
-        color: #fff;
+        color: #b60704;
     }
+    .clients .heading-agileinfo {
+    margin-bottom: 1.8em;
+    font-size:1.6em;
+}
     .navbar-toggle {float:none;
      left:42%;
      margin-right:0px;
