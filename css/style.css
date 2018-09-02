@@ -463,7 +463,7 @@ a.join-wthree:hover {
     color: #000000;
     font-weight: 500;
 }
-.heading-agileinfo span:after {
+/*.heading-agileinfo span:after {
     content: '';
     background: #212121;
     height: 2px;
@@ -471,7 +471,7 @@ a.join-wthree:hover {
     position: absolute;
     top: 132%;
     right: 47%;
-}
+}*/
 span.nnn {
     color: #fff;
 }
