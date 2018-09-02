@@ -41,7 +41,7 @@ img{
 nav.navbar.navbar-default.navbar-fixed-top {
 	    position: absolute;
 		    border: none;
-background-color:rgba(255, 255, 255, 0.7);
+background-color:rgba(0, 0, 0, 0.7);
 }
 .navbar-nav {
     float:none; 
@@ -111,7 +111,7 @@ ul.dropdown-menu {
 /*--end nav bar--*/
 .w3-agile-logo {
     padding: 0.41em 2em;
-    background: rgba(255, 255, 255, 0.71);
+    background: rgba(255, 255, 255, 0.81);
 }
 .head-wl {
     text-align: center;
