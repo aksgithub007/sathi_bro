@@ -170,7 +170,7 @@ h6.caption {
 
 .email-right p a:hover,
 .agileinfo-social-grids ul li a :hover {
-    color: #fff;
+    color: #333;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
